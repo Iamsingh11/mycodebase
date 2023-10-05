@@ -1,0 +1,3 @@
+ql : 100gb size, 100 billion rows * 12 columns, transforms all even if thet have special charachters, then we have to load to snowflake via rest api , how to design this syetem for 4 cpu and 3 gb ram
+
+12000000
